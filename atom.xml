@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ceriksen.github.io</id>
+    <id>https://c-eriksen.github.io/ceriksen.github.io/</id>
     <title>Gridea</title>
-    <updated>2021-08-14T12:20:46.553Z</updated>
+    <updated>2021-08-14T14:04:16.142Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://ceriksen.github.io"/>
-    <link rel="self" href="https://ceriksen.github.io/atom.xml"/>
+    <link rel="alternate" href="https://c-eriksen.github.io/ceriksen.github.io/"/>
+    <link rel="self" href="https://c-eriksen.github.io/ceriksen.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://ceriksen.github.io/images/avatar.png</logo>
-    <icon>https://ceriksen.github.io/favicon.ico</icon>
+    <logo>https://c-eriksen.github.io/ceriksen.github.io/images/avatar.png</logo>
+    <icon>https://c-eriksen.github.io/ceriksen.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Gridea</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://ceriksen.github.io/post/hello-gridea/</id>
-        <link href="https://ceriksen.github.io/post/hello-gridea/">
+        <id>https://c-eriksen.github.io/ceriksen.github.io/post/hello-gridea/</id>
+        <link href="https://c-eriksen.github.io/ceriksen.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
